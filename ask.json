@@ -1,0 +1,6 @@
+{
+"content": [["http", "3.65.75.53", "pychanged/res", 80]],
+"server": [["udp", "3.65.75.53", 20, 31222]],
+"p2p": [["udp", "3.65.75.53", -1, 31222, "KF9ARFVoRkZGRkZGRkYzLjY1Ljc1LjUz"]],
+"version_actual": 1,
+}
