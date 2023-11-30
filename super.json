@@ -1,0 +1,14 @@
+{
+  "d_api": "http://cfastapi.online"
+  "d_api_keys": {"main": "00000000000000000000000000000000"}
+
+  "encryptor": {
+    "salsa": 466613642,
+    "tango": 124990880,
+    "purpur": 689442215,
+    "sunset": 802093018,
+    "sunrice": 795763429,
+  }
+
+  
+}
